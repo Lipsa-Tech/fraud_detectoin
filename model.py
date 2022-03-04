@@ -7,3 +7,5 @@ def model2():
 
 def model3():
     print("adding code for model 3 algorithm")
+
+print("model 2 is performing the best")
